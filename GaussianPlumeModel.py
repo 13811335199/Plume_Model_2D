@@ -21,6 +21,7 @@ def Concentration_XYZ(Q, H, u, x, y, z):
     return C
 
 
+# output
 # input
 # u = 2  # 平均风速，m/s
 # Q = 100  # 源项释放率，Bq/s
